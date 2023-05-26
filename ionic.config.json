@@ -1,0 +1,7 @@
+{
+  "name": "outsystems-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
