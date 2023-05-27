@@ -14,6 +14,7 @@ const Tab1: React.FC = () => {
         <IonHeader collapse="condense">
           <IonToolbar>
             <IonTitle size="large">Tab 1</IonTitle>
+              <IonContent>This is a demo for the OutSystems User Group</IonContent>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Tab 1 page" />
